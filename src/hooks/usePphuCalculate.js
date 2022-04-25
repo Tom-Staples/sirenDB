@@ -26,7 +26,6 @@ const usePphuCalculate = () => {
       }
     }
     whitePrice = parseInt(whitePrice * 100) / 100;
-    consumption = parseInt(consumption * 100) / 100;
 
     let price;
     if (
