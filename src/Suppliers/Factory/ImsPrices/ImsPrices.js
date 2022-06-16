@@ -11,7 +11,9 @@ const ImsPrices = () => {
     'Lenya',
     'Rebecca',
     'Samantha',
-    'Sansa'
+    'Sansa',
+    'Lozenge',
+    'Siesta'
   ];
   const fabricTypes = ['John Lewis', 'Stock'];
 
